@@ -3,7 +3,7 @@ abstract public class Person {
     private String gender;
     
 
-    public Person(String name, String gender, int counter){
+    public Person(String name, String gender){
         this.name = name;
         this.gender = gender;
         
